@@ -1,4 +1,6 @@
 # Machine-Learning
-it include projects of machine learning
+It includes projects of machine learning
+
 C --> Classification problem
+
 R --> Regression problem
